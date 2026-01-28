@@ -1,8 +1,7 @@
 package main.java.study.a01_ds.d01.p1966;
-import java.io.*;
 import java.util.*;
 
-public class main_park_dabeen {
+public class Main_박다빈 {
     static int N;
     static int M;
     static Queue<int[]> q = new LinkedList<>();
