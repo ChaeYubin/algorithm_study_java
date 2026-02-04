@@ -3,7 +3,6 @@ package main.java.study.a02_tp.d02.p7453;
 import java.io.*;
 import java.util.*;
 
-
 /*
  * 백준 7453
  * 처음 봤을때, N*N*N*N 의 시간 복잡도에서
